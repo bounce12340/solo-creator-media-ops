@@ -58,7 +58,7 @@ variables, not in the repo.
 | Producer | Script, voiceover, subtitles, footage, cover, platform copy |
 | Fact editor | Reviews script and final cut before anything is published |
 | Scout | Finds topics, dedupes them, watches benchmark accounts |
-| Community manager | Replies to ordinary comments, escalates sensitive ones |
+| Community manager | Replies directly to praise/thanks; disagreement, rebuttals, questions and sensitive comments go to the creator first |
 | Data reviewer | 24h / 72h metrics, slot tests, viral-score calibration |
 
 ## Defaults vs. safety rules
@@ -109,7 +109,7 @@ MIT
 | 內容製作（Producer） | 腳本、配音、字幕、素材、封面、各平台文案 |
 | 事實編輯（Fact editor） | 發布前審腳本和成片 |
 | 情報偵察員（Scout） | 找選題、查重、看對標帳號 |
-| 社群經營（Community manager） | 回一般留言，敏感留言先問本人 |
+| 社群經營（Community manager） | 讚賞、道謝留言直接回；反對、反駁、提問和敏感留言先給本人看 |
 | 數據復盤師（Data reviewer） | 記 24 小時／72 小時數據、時段測試、校正爆文分數 |
 
 ### 預設和安全規則

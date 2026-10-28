@@ -46,7 +46,7 @@ configurable taste; rules without the marker are safety rules and should stay.
 | Producer | Script, voiceover, subtitles, footage, cover, platform copy, delivers a draft folder | Publishes or schedules |
 | Fact editor | Pre-publish review of script and final cut, writes `review.md` | Edits the draft, publishes, contacts anyone |
 | Scout | Finds topics and benchmark signals, dedupes against published work | Starts production or contacts sources |
-| Community manager | Replies to ordinary comments in the creator's voice, daily summary | Touches DMs, answers sensitive comments alone, posts new content |
+| Community manager | Replies directly only to praise/thanks comments in the creator's voice, daily summary | Touches DMs, answers disagreement, rebuttals, questions or sensitive comments without the creator, posts new content |
 | Data reviewer | Records 24h / 72h metrics, runs slot tests, calibrates optional viral scoring | Invents missing numbers |
 
 One agent can play several roles; keep the permissions of each role anyway.
