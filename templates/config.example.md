@@ -1,0 +1,23 @@
+# Creator config (copy to config.md and fill in; keep it out of public repos if it holds anything private)
+
+- Handle: <YOUR_HANDLE>
+- Time zone: <CREATOR_TIMEZONE>
+- Country (for ad / health / disclosure law): <YOUR_COUNTRY>
+- Platforms: Instagram, Facebook, Threads, X, YouTube Shorts, TikTok, LinkedIn
+- Creator uploads by hand: TikTok
+- Voiceover language: English            # default
+- Secondary subtitle language: Traditional Chinese   # default
+- Caption order: voiceover language first, then secondary
+- TTS provider / model / voice: <TTS_PROVIDER> / <TTS_MODEL> / <VOICE_ID>   # put the real ID in env or a private file
+- AI-voiceover label platforms: TikTok, YouTube
+- Main posts per day: 1
+- Slot test candidates: <SLOT_A>, <SLOT_B>, <SLOT_C>
+- Nightly reconciliation: 23:30
+- Handoff watchdog: 10:00, 20:00
+- Weekly archive: Sunday 03:30
+- Topic areas: <TOPIC_AREAS>
+- Trusted sources: <TRUSTED_SOURCES>
+- Learnable benchmarks: <ACCOUNTS>
+- Trend-only benchmarks: <ACCOUNTS>
+- Paid licences allowed: no
+- Viral scoring: record-only until <DATE>
